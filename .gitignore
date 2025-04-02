@@ -13,3 +13,4 @@ lib
 test/*/renderer.js
 .vscode/
 .idea/
+.env.local
