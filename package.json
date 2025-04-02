@@ -38,6 +38,7 @@
   },
   "devDependencies": {
     "@pixi/eslint-config": "^5.1.0",
+    "dotenv": "^16.4.7",
     "eslint": "^8.38.0",
     "gh-pages": "^2.0.0",
     "ncp": "^2.0.0",
