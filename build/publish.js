@@ -1,5 +1,4 @@
-import dotenv from 'dotenv';
-
+const dotenv = require('dotenv');
 const path = require('path');
 const fs = require('fs');
 const pkg = require(path.resolve('./package.json'));
