@@ -1,6 +1,6 @@
 {
   "name": "@alexgameux/particle-emitter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "lib/particle-emitter.js",
   "module": "lib/particle-emitter.es.js",
   "bundle": "dist/particle-emitter.js",
